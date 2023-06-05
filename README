@@ -1,0 +1,7 @@
+These files include programs for:
+  - Printing "hello world" (task1)
+  - Create Fibonacci sequence for given number in program (task2)
+  - Create Fibonacci sequence for user input on command line prompt (task3)
+  
+ They are basic programs to gain an understanding on how to link header files, implementation files,
+ and object files together to create a binary executable
